@@ -49,6 +49,12 @@ npx expo install react-native-svg
    ```bash
    yarn add react-native-svg
    ```
+   
+   from bun
+
+   ```bash
+   bun add react-native-svg
+   ```
 
 2. Link native code
 
